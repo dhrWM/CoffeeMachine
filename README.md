@@ -1,4 +1,4 @@
-# Coffee-Machine
+# CoffeeMachine
 Hyperskill / Jetbrains Academy<br>
 Coffee Machine is a graduate project for track Java for Beginners.
 
